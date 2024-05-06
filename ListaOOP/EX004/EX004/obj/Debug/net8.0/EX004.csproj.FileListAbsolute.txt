@@ -1,0 +1,14 @@
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\bin\Debug\net8.0\EX004.exe
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\bin\Debug\net8.0\EX004.deps.json
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\bin\Debug\net8.0\EX004.runtimeconfig.json
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\bin\Debug\net8.0\EX004.dll
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\bin\Debug\net8.0\EX004.pdb
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\EX004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\EX004.AssemblyInfoInputs.cache
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\EX004.AssemblyInfo.cs
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\EX004.csproj.CoreCompileInputs.cache
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\EX004.dll
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\refint\EX004.dll
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\EX004.pdb
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\EX004.genruntimeconfig.cache
+C:\Users\felip\project\c\exe\ListaOOP\EX004\EX004\obj\Debug\net8.0\ref\EX004.dll

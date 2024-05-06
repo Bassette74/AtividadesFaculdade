@@ -1,0 +1,14 @@
+C:\Users\felip\project\c\exe\exe002\exe002\bin\Debug\net8.0\exe002.exe
+C:\Users\felip\project\c\exe\exe002\exe002\bin\Debug\net8.0\exe002.deps.json
+C:\Users\felip\project\c\exe\exe002\exe002\bin\Debug\net8.0\exe002.runtimeconfig.json
+C:\Users\felip\project\c\exe\exe002\exe002\bin\Debug\net8.0\exe002.dll
+C:\Users\felip\project\c\exe\exe002\exe002\bin\Debug\net8.0\exe002.pdb
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\exe002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\exe002.AssemblyInfoInputs.cache
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\exe002.AssemblyInfo.cs
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\exe002.csproj.CoreCompileInputs.cache
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\exe002.dll
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\refint\exe002.dll
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\exe002.pdb
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\exe002.genruntimeconfig.cache
+C:\Users\felip\project\c\exe\exe002\exe002\obj\Debug\net8.0\ref\exe002.dll
